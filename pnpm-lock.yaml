@@ -1491,7 +1491,7 @@ importers:
         version: 5.0.1(bare-abort-controller@1.1.2)(bare-buffer@3.6.2)(bare-events@2.9.1(bare-abort-controller@1.1.2))(bare-url@2.5.4)
       undici:
         specifier: ^7.29.1
-        version: 7.29.1
+        version: 7.30.0
       zod:
         specifier: ^3.24.0
         version: 3.25.76
@@ -10693,8 +10693,8 @@ packages:
     resolution: {integrity: sha512-LIY910g9TI13YS95lrMFrs8Rm/u/irgHeTWoKCoteeJ04CUJ92eEfj0rVn+7VKMPBpUPiUoBKfhNyLI23EE/KA==}
     engines: {node: '>=18.17'}
 
-  undici@7.29.1:
-    resolution: {integrity: sha512-RYONW2MeafgYlkVOKYKkA/Ag7BmXqgIWCa8t1m0JcxrQg9pI9lEqRhAOruOBCbAohOa/gkCF+iPi9hrgvTzu6Q==}
+  undici@7.30.0:
+    resolution: {integrity: sha512-dkrQXeHSaoamnItlYbmzG0wFYrM0ZwDxCIg0A7aKjTyyhh9svRzCNFEzV+Vm05/yehjCzjDZ31KXfGEjYSztDQ==}
     engines: {node: '>=20.18.1'}
 
   undici@8.10.0:
@@ -24056,7 +24056,7 @@ snapshots:
 
   undici@6.28.0: {}
 
-  undici@7.29.1: {}
+  undici@7.30.0: {}
 
   undici@8.10.0: {}
 
